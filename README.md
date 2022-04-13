@@ -1,7 +1,7 @@
 I am a self-taught composer and developer.
 
-[Music album "Night"](https://flujoo.github.io/en/my-music-album-night/)
+[Music Album "Night"](https://flujoo.github.io/en/my-music-album-night/)
 
-[R package "gm" for music creation](https://github.com/flujoo/gm)
+[R Package "gm" for Music Score and Audio Generation](https://github.com/flujoo/gm)
 
-[Python package "ch0p1n" for automatic composition](https://github.com/flujoo/ch0p1n)
+[Python Package "ch0p1n" for Automatic Composition](https://github.com/flujoo/ch0p1n)
